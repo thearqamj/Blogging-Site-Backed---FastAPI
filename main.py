@@ -8,5 +8,4 @@ def index():
 
 @app.get("/about")
 def about():
-    return {'About Page of the company'}
-                    
+    return {'About Us'}
